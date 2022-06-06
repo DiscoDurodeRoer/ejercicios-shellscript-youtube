@@ -1,0 +1,5 @@
+4. Dado un numero por parametro, muestra del 1 al parametro dado. Hazlo con un while.
+
+5. Dado un numero por parametro, muestra del 1 al parametro dado. Hazlo con un for. 
+
+6. Dado un numero por parametro, muestra del 1 al parametro dado. Hazlo con un until. 

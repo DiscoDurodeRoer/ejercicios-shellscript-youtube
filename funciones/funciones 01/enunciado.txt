@@ -1,0 +1,5 @@
+1. Crea una función que muestre por pantalla "Hola mundo"
+
+2. Crea una función que muestre por pantalla el texto que le pasemos como parametro.
+
+3. Crea una función que muestre la suma entre dos números pasados por parámetros.

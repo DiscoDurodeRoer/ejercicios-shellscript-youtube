@@ -1,0 +1,5 @@
+1. Muestra "Hola mundo" por pantalla.
+
+2. Haz un script que solo le podamos pasar 3 parametros.
+
+3. Recoge 3 parametros, concatenalos y muestralo por pantalla.
